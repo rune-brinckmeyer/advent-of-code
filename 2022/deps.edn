@@ -1,0 +1,4 @@
+{:deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        com.rpl/specter     {:mvn/version "1.1.4"}
+        metosin/jsonista    {:mvn/version "0.3.7"}
+        clj-jgit/clj-jgit   {:mvn/version "1.0.2"}}}
